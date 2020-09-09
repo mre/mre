@@ -9,6 +9,11 @@
 #### Writing
 
 <!-- BLOG-POST-LIST:START -->
+- [Launching a Side Project Backed by Github Sponsors](https://endler.dev/2020/sponsors/)
+- [What Happened To Programming In The 2010s?](https://endler.dev/2020/review/)
+- [Tips for Faster Rust Compile Times](https://endler.dev/2020/rust-compile-times/)
+- [Gravity](https://endler.dev/2020/gravity/)
+- [Hacker Folklore](https://endler.dev/2020/folklore/)
 <!-- BLOG-POST-LIST:END -->
 
 #### Github Stats
