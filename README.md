@@ -1,5 +1,3 @@
-<samp>
-
 ### Ohai!
 
 * 🌊 I'm building [analysis-tools.dev](https://analysis-tools.dev/) and host [Hello, Rust!](https://hello-rust.show/)
@@ -16,5 +14,3 @@
 - [Tips for Faster Rust Compile Times](https://endler.dev/2020/rust-compile-times/)
 - [Gravity](https://endler.dev/2020/gravity/)
 <!-- BLOG-POST-LIST:END -->
-
-</samp>
