@@ -1,6 +1,6 @@
 ### Ohai!
 
-My goal is help everyone contribute to open source and learn more about computers.
+My goal is to help everyone contribute to open-source and learn more about computers.
 
 ### ⚙️ Main projects
 
