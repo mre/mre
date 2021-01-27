@@ -1,2 +1,107 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<svg width="185mm" height="54.4mm" version="1.1" viewBox="0 0 185 54.4" xmlns="http://www.w3.org/2000/svg"><g transform="translate(0 -.64)"><rect y=".64" width="185" height="54.4" fill="#e404a6" stop-color="#000000" stroke-linecap="square" stroke-width=".613"/><g><text transform="rotate(-6.9)" x="3.991559" y="34.960369" fill="#f8ff54" font-family="'Lemon Juice'" font-size="21.5px" stroke-width=".536" style="font-variant-caps:normal;font-variant-east-asian:normal;font-variant-ligatures:normal;font-variant-numeric:normal;line-height:1.25" xml:space="preserve"><tspan x="3.991559" y="34.960369" fill="#f8ff54" font-family="'Lemon Juice'" font-size="21.5px" stroke-width=".536" style="font-variant-caps:normal;font-variant-east-asian:normal;font-variant-ligatures:normal;font-variant-numeric:normal">Matthias Endler</tspan></text><text transform="rotate(-6.9)" x="17.971821" y="44.123093" fill="#000000" font-family="'DK Cover Up'" font-size="7.22px" stroke-width=".338" style="font-variant-caps:normal;font-variant-east-asian:normal;font-variant-ligatures:normal;font-variant-numeric:normal;line-height:1.25" xml:space="preserve"><tspan x="17.971821" y="44.123093" fill="#000000" font-family="'DK Cover Up'" font-size="7.22px" stroke-width=".338" style="font-variant-caps:normal;font-variant-east-asian:normal;font-variant-ligatures:normal;font-variant-numeric:normal">Austin Powers of Software</tspan></text><text x="140.07483" y="24.165062" fill="#ffffff" font-family="'DK Cover Up'" font-size="6.95px" stroke-width=".174" text-anchor="middle" style="line-height:1.25" xml:space="preserve"><tspan x="140.07483" y="24.165062" text-align="center" style="font-variant-caps:normal;font-variant-east-asian:normal;font-variant-ligatures:normal;font-variant-numeric:normal">Blog posts, experiments</tspan><tspan x="140.07483" y="33.134159" text-align="center" style="font-variant-caps:normal;font-variant-east-asian:normal;font-variant-ligatures:normal;font-variant-numeric:normal">international man of mystery</tspan></text></g></g></svg>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   sodipodi:docname="drawing.svg"
+   inkscape:version="1.0 (4035a4f, 2020-05-01)"
+   id="svg892"
+   version="1.1"
+   viewBox="0 0 184.82076 54.359043"
+   height="54.359043mm"
+   width="184.82076mm">
+  <defs
+     id="defs886" />
+  <sodipodi:namedview
+     inkscape:window-maximized="0"
+     inkscape:window-y="23"
+     inkscape:window-x="0"
+     inkscape:window-height="855"
+     inkscape:window-width="1252"
+     fit-margin-bottom="0"
+     fit-margin-right="0"
+     fit-margin-left="0"
+     fit-margin-top="0"
+     showgrid="false"
+     inkscape:document-rotation="0"
+     inkscape:current-layer="layer1"
+     inkscape:document-units="mm"
+     inkscape:cy="145.51249"
+     inkscape:cx="613.53396"
+     inkscape:zoom="0.82744586"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     borderopacity="1.0"
+     bordercolor="#666666"
+     pagecolor="#ffffff"
+     id="base" />
+  <metadata
+     id="metadata889">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     transform="translate(0,-0.6395182)"
+     id="layer1"
+     inkscape:groupmode="layer"
+     inkscape:label="Layer 1">
+    <rect
+       y="0.6395182"
+       x="0"
+       height="54.359043"
+       width="184.82076"
+       id="rect1473"
+       style="fill:#e404a6;fill-opacity:1;stroke-width:0.612638;stroke-linecap:square;stop-color:#000000" />
+    <text
+       transform="rotate(-6.8975332)"
+       id="text1457"
+       y="34.960369"
+       x="3.991559"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:21.4536px;line-height:1.25;font-family:'Lemon Juice';-inkscape-font-specification:'Lemon Juice, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#f8ff54;fill-opacity:1;stroke:none;stroke-width:0.53634"
+       xml:space="preserve"><tspan
+         id="tspan1459"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:21.4536px;font-family:'Lemon Juice';-inkscape-font-specification:'Lemon Juice, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#f8ff54;fill-opacity:1;stroke-width:0.53634"
+         y="34.960369"
+         x="3.991559"
+         sodipodi:role="line">Matthias Endler</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.21532px;line-height:1.25;font-family:'DK Cover Up';-inkscape-font-specification:'DK Cover Up, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.338218"
+       x="17.971821"
+       y="44.123093"
+       id="text1465"
+       transform="rotate(-6.8975332)"><tspan
+         sodipodi:role="line"
+         x="17.971821"
+         y="44.123093"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.21532px;font-family:'DK Cover Up';-inkscape-font-specification:'DK Cover Up, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke-width:0.338218"
+         id="tspan1463">Austin Powers of Software</tspan></text>
+    <text
+       id="text1469"
+       y="24.165062"
+       x="140.07483"
+       style="font-style:normal;font-weight:normal;font-size:6.94805px;line-height:1.25;font-family:sans-serif;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.173701"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.94805px;font-family:'DK Cover Up';-inkscape-font-specification:'DK Cover Up, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke-width:0.173701"
+         y="24.165062"
+         x="140.07483"
+         id="tspan1467"
+         sodipodi:role="line">Blog posts, experiments,</tspan><tspan
+         id="tspan1471"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.94805px;font-family:'DK Cover Up';-inkscape-font-specification:'DK Cover Up, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke-width:0.173701"
+         y="33.134159"
+         x="140.07483"
+         sodipodi:role="line">international man of mystery</tspan></text>
+  </g>
+</svg>
