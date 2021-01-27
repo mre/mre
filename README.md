@@ -15,9 +15,9 @@ computers bleep boop 🤖👾👨🏻‍⚙️💻
 ### 📝 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Starting A Print-On-Demand Business As A Software Engineer](https://endler.dev/2021/codeprints/)
 - [So You Want To Earn Money With Open Source](https://endler.dev/2021/oss-money/)
 - [My Blog Just Got Faster: Cloudflare Workers and AVIF Support](https://endler.dev/2020/perf/)
 - [Launching a Side Project Backed by Github Sponsors](https://endler.dev/2020/sponsors/)
 - [What Happened To Programming In The 2010s?](https://endler.dev/2020/review/)
-- [Tips for Faster Rust Compile Times](https://endler.dev/2020/rust-compile-times/)
 <!-- BLOG-POST-LIST:END -->
