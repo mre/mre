@@ -1,16 +1,18 @@
 ![Rad header](drawing.svg)
 
-My goal is to help everyone contribute to open-source and learn more about computers.
+My goal is to help everyone contribute to open-source and learn more about
+computers bleep boop 🤖👾👨🏻‍⚙️💻
 
-### ⚙️ Main projects
+### ⚙️ Sales Pitch
 
 * 🌊 Building [codeprints.dev](https://codeprints.dev/), [analysis-tools.dev](https://analysis-tools.dev/)
-* 🎙 Hosting [Hello, Rust!](https://hello-rust.show/)
-* 🧦 Writing about Rust, Vim, silly web experiments (and socks!) on [endler.dev](https://endler.dev/).
+* 🎙 Hosting [Hello, Rust!](https://hello-rust.show/), a YouTube channel about
+  Rust stuff.
+* 🧦 Writing about Rust, Vim, silly web experiments (and socks!) at [endler.dev](https://endler.dev/).
 * 🐠 [Talking about Rusty things](https://endler.dev/talks/) at meetups and conferences like FOSDEM, RustBeltRust, Codemotion, and RustFest.
-* 📆 Have an idea you want to talk about? [My calendar is open](https://calendly.com/matthias-endler).
+* 📆 Want to talk through an idea? [My calendar is always open](https://calendly.com/matthias-endler)!
 
-### 📝 Latest blog posts
+### 📝 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
 - [So You Want To Earn Money With Open Source](https://endler.dev/2021/oss-money/)
