@@ -1,4 +1,4 @@
-### Ohai!
+![Rad header](drawing.svg)
 
 My goal is to help everyone contribute to open-source and learn more about computers.
 
