@@ -8,7 +8,7 @@ computers bleep boop 🤖👾👨🏻‍⚙️💻
 * 🌊 Building [codeprints.dev](https://codeprints.dev/), [analysis-tools.dev](https://analysis-tools.dev/)
 * 🎙 Hosting [Hello, Rust!](https://hello-rust.show/), a YouTube channel about
   Rust stuff.
-* 🧦 Writing about Rust, Vim, silly web experiments (and socks!) at [endler.dev](https://endler.dev/).
+* 🧦 Writing about Rust, Vim, silly web experiments, and socks at [endler.dev](https://endler.dev/).
 * 🐠 [Talking about Rusty things](https://endler.dev/talks/) at meetups and conferences like FOSDEM, RustBeltRust, Codemotion, and RustFest.
 * 📆 Want to talk through an idea? [My calendar is always open](https://booktime.xyz/p/matthias)!
 
@@ -21,3 +21,7 @@ computers bleep boop 🤖👾👨🏻‍⚙️💻
 - [My Blog Just Got Faster: Cloudflare Workers and AVIF Support](https://endler.dev/2020/perf/)
 - [Launching a Side Project Backed by Github Sponsors](https://endler.dev/2020/sponsors/)
 <!-- BLOG-POST-LIST:END -->
+
+### 🎯 Current Sponsorhip Target
+
+Saving up for a new laptop to improve compile times of my Rust projects. [Want to help me with that?](https://github.com/sponsors/mre/) 😍 
