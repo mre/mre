@@ -10,7 +10,7 @@ computers bleep boop 🤖👾👨🏻‍⚙️💻
   Rust stuff.
 * 🧦 Writing about Rust, Vim, silly web experiments, and socks at [endler.dev](https://endler.dev/).
 * 🐠 [Talking about Rusty things](https://endler.dev/talks/) at meetups and conferences like FOSDEM, RustBeltRust, Codemotion, and RustFest.
-* 📆 Want to talk through an idea? [My calendar is always open](https://booktime.xyz/p/matthias)!
+* 📆 Want to talk through an idea? [My calendar is always open](https://calendly.com/matthias-endler)!
 
 ### 📝 Latest Blog Posts
 
