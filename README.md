@@ -1,15 +1,13 @@
-![Rad header](drawing.svg)
-
 My goal is to help everyone contribute to open-source and learn more about
 computers bleep boop 🤖👾👨🏻‍⚙️💻
 
 ### ⚙️ Sales Pitch
 
-* 🌊 Building [codeprints.dev](https://codeprints.dev/), [analysis-tools.dev](https://analysis-tools.dev/)
-* 🎙 Hosting [Hello, Rust!](https://hello-rust.show/), a YouTube channel about
-  Rust stuff.
+* 🌊 Maintaining [analysis-tools.dev](https://analysis-tools.dev/), [lychee](https://github.com/lycheeverse/lychee), [tinysearch](https://github.com/tinysearch/tinysearch), and others.
 * 🧦 Writing about Rust, Vim, silly web experiments, and socks at [endler.dev](https://endler.dev/).
 * 🐠 [Talking about Rusty things](https://endler.dev/talks/) at meetups and conferences like FOSDEM, RustBeltRust, Codemotion, and RustFest.
+* 🖼️ Co-founded [codeprints.dev](https://codeprints.dev/).
+* 🎙 Hosted [Hello, Rust!](https://hello-rust.show/), a YouTube channel about Rust.
 * 📆 Want to talk through an idea? [My calendar is always open](https://calendly.com/matthias-endler)!
 
 ### 📝 Latest Blog Posts
