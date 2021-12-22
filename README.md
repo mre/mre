@@ -1,8 +1,11 @@
-My goal is to help everyone contribute to open-source and learn more about
-computers bleep boop 🤖👾👨🏻‍⚙️💻
+### 😍 My Goal
 
-### ⚙️ Sales Pitch
+Help *everyone* contribute to open-source  
+and learn more about computers bleep boop 🤖👾👨🏻‍⚙️💻
 
+### ⚙️ About Me
+
+* 🆕 Rust consultant at [corrode](https://corrode.dev/).
 * 🌊 Maintaining [analysis-tools.dev](https://analysis-tools.dev/), [lychee](https://github.com/lycheeverse/lychee), [tinysearch](https://github.com/tinysearch/tinysearch), and others.
 * 🧦 Writing about Rust, Vim, silly web experiments, and socks at [endler.dev](https://endler.dev/).
 * 🐠 [Talking about Rusty things](https://endler.dev/talks/) at meetups and conferences like FOSDEM, RustBeltRust, Codemotion, and RustFest.
