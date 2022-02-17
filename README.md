@@ -22,7 +22,3 @@ and learn more about computers bleep boop 🤖👾👨🏻‍⚙️💻
 - [Starting A Print-On-Demand Business As A Software Engineer](https://endler.dev/2021/codeprints/)
 - [So You Want To Earn Money With Open Source](https://endler.dev/2021/oss-money/)
 <!-- BLOG-POST-LIST:END -->
-
-### 🎯 Current Sponsorhip Target
-
-Saving up for a new laptop to improve compile times of my Rust projects. [Want to help me with that?](https://github.com/sponsors/mre/) 😍 
