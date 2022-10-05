@@ -5,13 +5,14 @@ and learn more about computers bleep boop 🤖👾👨🏻‍⚙️💻
 
 ### ⚙️ About Me
 
-* 🆕 Rust consultant at [corrode](https://corrode.dev/).
+* 🦀 Rust Consultant at [corrode](https://corrode.dev/).
+* 🆕 Working on [Open Podcast](https://github.com/openpodcast).
 * 🌊 Maintaining [analysis-tools.dev](https://analysis-tools.dev/), [lychee](https://github.com/lycheeverse/lychee), [tinysearch](https://github.com/tinysearch/tinysearch), and others.
 * 🧦 Writing about Rust, Vim, silly web experiments, and socks at [endler.dev](https://endler.dev/).
 * 🐠 [Talking about Rusty things](https://endler.dev/talks/) at meetups and conferences like FOSDEM, RustBeltRust, Codemotion, and RustFest.
 * 🖼️ Co-founded [codeprints.dev](https://codeprints.dev/).
 * 🎙 Hosted [Hello, Rust!](https://hello-rust.show/), a YouTube channel about Rust.
-* 📆 Want to talk through an idea? [My calendar is always open](https://calendly.com/matthias-endler)!
+* 💬 Want to talk through an idea? [My calendar is always open](https://cal.com/matthias-endler)!
 
 ### 📝 Latest Blog Posts
 
