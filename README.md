@@ -12,6 +12,10 @@ and learn more about computers bleep boop 🤖👾👨🏻‍⚙️💻
 * 🐠 [Talking about Rusty things](https://endler.dev/talks/) at meetups and conferences like FOSDEM, RustBeltRust, Codemotion, and RustFest.
 * 🖼️ Co-founded [codeprints.dev](https://codeprints.dev/).
 * 🎙 Hosted [Hello, Rust!](https://hello-rust.show/), a YouTube channel about Rust.
+
+### 👋 Contact
+
+* 🐘 Find me on Mastodon: [mre@mastodon.social](https://mastodon.social/@mre)
 * 💬 Want to talk through an idea? [My calendar is always open](https://cal.com/matthias-endler)!
 
 ### 📝 Latest Blog Posts
