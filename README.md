@@ -21,9 +21,9 @@ and learn more about computers bleep boop 🤖👾👨🏻‍⚙️💻
 ### 📝 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Little Helpers](https://endler.dev/2023/helpers/)
 - [A Reader Mode Proxy for the Slow Web](https://endler.dev/2022/readable/)
 - [zerocal - A Serverless Calendar App in Rust Running on shuttle.rs](https://endler.dev/2022/zerocal/)
 - [The Uber of Poland](https://endler.dev/2021/uber-of-poland/)
 - [How Does The Unix `history` Command Work?](https://endler.dev/2021/history/)
-- [Your First Business Should Be A Spreadsheet](https://endler.dev/2021/first-business/)
 <!-- BLOG-POST-LIST:END -->
