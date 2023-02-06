@@ -1,4 +1,4 @@
-[![github banner](https://user-images.githubusercontent.com/175809/214928009-298102c4-6028-4c01-b388-bcea28511555.svg)](https://github.com/sponsors/mre)
+[![github banner](https://user-images.githubusercontent.com/175809/216984504-982e0463-0d63-4077-8388-1af4db2165d6.svg)](https://github.com/sponsors/mre)
 
 You guessed it, I'm Matthias a [Rust Consultant](https://corrode.dev/) from Düsseldorf, Germany.  
 I work on [lychee](https://github.com/lycheeverse/lychee), a fast link checker in Rust.  
